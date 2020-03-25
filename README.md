@@ -26,3 +26,4 @@ Finally, we iterated the process 20 times the process and we variated the level 
 
 The suggested models seems to have a better resistance to the type of noise suggested in the experiments. Besides, it is also more robust to the similarity within the data sources. This would suggest that some interesting results can probably be derive using  generalized algorithm approach in this particular situation.
 # Report paper
+https://www.researchgate.net/publication/340166235_Robust_Learning_from_highly_corrupted_data_using_mutual-information_diversification
